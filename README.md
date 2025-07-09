@@ -62,8 +62,6 @@ Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong 
 
 - Advanced JavaScript (ES6+)
 - Django REST Framework
-- Cloud deployment (AWS, Heroku)
-- DevOps basics
 
 ---
 
