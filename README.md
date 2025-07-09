@@ -2,7 +2,6 @@
 
 Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong interest in building robust, scalable, and user-friendly web applications. I enjoy working across the stack, from crafting beautiful frontends to architecting efficient backends.
 
----
 
 ## 🧑‍💻 About Me
 
@@ -10,7 +9,6 @@ Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong 
 - 🌍 Based in India
 - 🎯 Focused on delivering high-quality solutions and continuous learning
 
----
 
 ## 🚀 Skills & Technologies
 <p align="center">
