@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong 
 
 ## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer | Web Enthusiast | Open Source Contributor
+- 💼 Full Stack Developer | Web Enthusiast
 - 🌍 Based in India
 - 🎯 Focused on delivering high-quality solutions and continuous learning
 
