@@ -13,6 +13,9 @@ Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong 
 ---
 
 ## 🚀 Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,py,html,css,react,angular,nodejs,express,django,mysql,git,bootstrap&perline=7" alt="Skills" />
+</p>
 
 ### Languages
 - **PHP**
