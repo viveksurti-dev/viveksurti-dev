@@ -2,13 +2,15 @@
 
 Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong interest in building robust, scalable, and user-friendly web applications. I enjoy working across the stack, from crafting beautiful frontends to architecting efficient backends.
 
+---
 
 ## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer | Web Enthusiast
-- 🌍 Based in India
-- 🎯 Focused on delivering high-quality solutions and continuous learning
+- 💼 Full Stack Developer | Web Enthusiast | Software Testing Enthusiast  
+- 🌍 Based in India  
+- 🎯 Focused on delivering high-quality solutions and continuous learning  
 
+---
 
 ## 🚀 Skills & Technologies
 <p align="center">
@@ -35,6 +37,21 @@ Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong 
 - **MERN** (MongoDB, Express.js, React, Node.js)
 - **MEAN** (MongoDB, Express.js, Angular, Node.js)
 
+---
+
+### 🧪 Software Testing
+- **Manual Testing**
+  - Test Case Design  
+  - Bug Reporting  
+  - Functional & UI Testing  
+
+- **Automation Testing (Currently Exploring)**
+  - **Selenium**
+  - **TestNG**
+  - **Playwright**
+
+---
+
 ### Tools & Platforms
 - **VS Code**
 - **XAMPP**
@@ -60,25 +77,26 @@ Welcome to my GitHub! I’m a passionate **Full Stack Developer** with a strong 
 
 ## 🌱 Currently Exploring
 
-- Advanced JavaScript (ES6+)
-- Django REST Framework
+- Advanced JavaScript (ES6+)  
+- Django REST Framework  
+- Automation Testing with Selenium, TestNG & Playwright  
 
 ---
 
 ## 🏆 Achievements
 
-- Built and deployed multiple full-stack applications
-- Contributed to open-source projects
-- Consistently learning and implementing new technologies
+- Built and deployed multiple full-stack applications  
+- Contributed to open-source projects  
+- Expanding expertise in **Software Testing & Automation**  
 
 ---
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/vivek-surati-0b6007269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [GitHub](https://github.com/viveksurti-dev/)
-- Email: ac.viveksurati@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vivek-surati-0b6007269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [GitHub](https://github.com/viveksurti-dev/)  
+- Email: ac.viveksurati@gmail.com  
 
 ---
 
-_Always open to collaboration, learning, and
+_Always open to collaboration, learning, and building impactful solutions 🚀_
